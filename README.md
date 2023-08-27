@@ -1,2 +1,2 @@
 # SportTournamentSupportSystem
-Final project
+Capstone project - FPT University - 2020
